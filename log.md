@@ -12,3 +12,11 @@
 **Today's Progress**: Week 1: Cost Function and Gradient Descent
 
 **Thoughts:** Really great course so far, I feel my intuition is getting better and I understand how calculus helps the learning process in machine learning.
+
+
+### Day 2: July 10, 2018
+**Today's Progress**: Watched 3Brown1Blues videos on Neural Networks
+
+**Thoughts:** Great for deepening my understanding of neural nets.
+
+[3Brown1Blue Neural Nets Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
