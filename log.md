@@ -20,3 +20,9 @@
 **Thoughts:** Great for deepening my understanding of neural nets.
 
 [3Brown1Blue Neural Nets Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+
+### Day 3: July 14, 2018
+**Today's Progress**: Completed Week 1 of Andrew Ng's Machine Learning Course
+**Side Note** Had a few sick days in between day 2 and day 3 but back to 100% and ready to learn.
+**Thoughts:** Completed Linear Algebra Section. There were several ML Hello World project ideas in 3Brown1Blues videos on Neural Networks so I plan to start working on some mini-projects to get my feet wet after I complete some more of Andrew Ng's course.
