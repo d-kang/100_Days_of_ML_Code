@@ -26,3 +26,7 @@
 **Today's Progress**: Completed Week 1 of Andrew Ng's Machine Learning Course
 **Side Note** Had a few sick days in between day 2 and day 3 but back to 100% and ready to learn.
 **Thoughts:** Completed Linear Algebra Section. There were several ML Hello World project ideas in 3Brown1Blues videos on Neural Networks so I plan to start working on some mini-projects to get my feet wet after I complete some more of Andrew Ng's course.
+
+### Day 4: July 17, 2018
+**Today's Progress**: Completed Start Week 2 of Andrew Ng's Machine Learning Course
+**Thoughts:** Starting to use Matlab/Octave so things are getting interesting
