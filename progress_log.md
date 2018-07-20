@@ -3,7 +3,7 @@
 ### Day 0: July 8, 2018
 **Today's Progress**: Started Week 1 of Andrew Ng's Machine Learning Course on Coursera.
 
-**Thoughts:** Many people highly recommended this course so I will start my journey with this MOOC. Its an 11 week course and I want to try to complete it within 2-3 weeks depending on how hard it is.
+**Thoughts:** Many people highly recommended this course so I will start my journey with this MOOC.
 
 **Link to work:** [Andrew Ng's Coursera Course](https://www.coursera.org/learn/machine-learning)
 
@@ -30,3 +30,7 @@
 ### Day 4: July 17, 2018
 **Today's Progress**: Completed Start Week 2 of Andrew Ng's Machine Learning Course
 **Thoughts:** Starting to use Matlab/Octave so things are getting interesting
+
+### Day 5: July 17, 2018
+**Today's Progress**: Notes on Octave (GNU Octave is software featuring a high-level programming language similar to MATLAB)
+**Link to work:** [Octave Notes](octave_notes.md)
