@@ -32,5 +32,5 @@
 **Thoughts:** Starting to use Matlab/Octave so things are getting interesting
 
 ### Day 5: July 17, 2018
-**Today's Progress**: Notes on Octave (GNU Octave is software featuring a high-level programming language similar to MATLAB)
+**Today's Progress**: Notes on Octave (GNU Octave is software similar to MATLAB)
 **Link to work:** [Octave Notes](octave_notes.md)
