@@ -34,3 +34,7 @@
 ### Day 5: July 17, 2018
 **Today's Progress**: Notes on Octave (GNU Octave is software similar to MATLAB)
 **Link to work:** [Octave Notes](octave_notes.md)
+**Thoughts:** Starting to use Matlab/Octave so things are getting interesting
+
+### Day 6: July 25, 2018
+**Today's Progress**: Taking a deeper dive into SQL Databases specifically PostgreSQL
