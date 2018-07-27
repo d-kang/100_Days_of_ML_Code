@@ -38,3 +38,6 @@
 
 ### Day 6: July 25, 2018
 **Today's Progress**: Taking a deeper dive into SQL Databases specifically PostgreSQL
+
+### Day 6: July 26, 2018
+**Today's Progress**: Day 2 of PostgreSQL
