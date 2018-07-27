@@ -38,6 +38,12 @@
 
 ### Day 6: July 25, 2018
 **Today's Progress**: Taking a deeper dive into SQL Databases specifically PostgreSQL
+**Link to work:**[The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-PROF-US-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_PROF_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_60674439771_._ad_267615543763_._de_c_._dm__._pl__._ti_dsa-304639795823_._li_9031589_._pd__._&gclid=EAIaIQobChMIksmI2Ny_3AIVD6vsCh0k_AhsEAAYASAAEgLpA_D_BwE)
 
 ### Day 6: July 26, 2018
 **Today's Progress**: Day 2 of PostgreSQL
+**Link to work:**[The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-PROF-US-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_PROF_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_60674439771_._ad_267615543763_._de_c_._dm__._pl__._ti_dsa-304639795823_._li_9031589_._pd__._&gclid=EAIaIQobChMIksmI2Ny_3AIVD6vsCh0k_AhsEAAYASAAEgLpA_D_BwE)
+
+### Day 7: July 26, 2018
+**Today's Progress**: Complete SQL Bootcamp
+**Link to work:**[The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-PROF-US-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_PROF_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_60674439771_._ad_267615543763_._de_c_._dm__._pl__._ti_dsa-304639795823_._li_9031589_._pd__._&gclid=EAIaIQobChMIksmI2Ny_3AIVD6vsCh0k_AhsEAAYASAAEgLpA_D_BwE)
