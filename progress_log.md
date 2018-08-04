@@ -28,7 +28,7 @@
 **Thoughts:** Completed Linear Algebra Section. There were several ML Hello World project ideas in 3Brown1Blues videos on Neural Networks so I plan to start working on some mini-projects to get my feet wet after I complete some more of Andrew Ng's course.
 
 ### Day 4: July 17, 2018
-**Today's Progress**: Completed Start Week 2 of Andrew Ng's Machine Learning Course
+**Today's Progress**: Start Week 2 of Andrew Ng's Machine Learning Course
 **Thoughts:** Starting to use Matlab/Octave so things are getting interesting
 
 ### Day 5: July 17, 2018
@@ -47,3 +47,6 @@
 ### Day 7: July 26, 2018
 **Today's Progress**: Complete SQL Bootcamp
 **Link to work:**[The Complete SQL Bootcamp](https://www.udemy.com/the-complete-sql-bootcamp/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-PROF-US-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_PROF_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_60674439771_._ad_267615543763_._de_c_._dm__._pl__._ti_dsa-304639795823_._li_9031589_._pd__._&gclid=EAIaIQobChMIksmI2Ny_3AIVD6vsCh0k_AhsEAAYASAAEgLpA_D_BwE)
+
+### Day 8: Aug 3, 2018
+**Today's Progress**: Continue Week 2 of Andrew Ng's Machine Learning Course
