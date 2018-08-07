@@ -50,3 +50,6 @@
 
 ### Day 8: Aug 3, 2018
 **Today's Progress**: Continue Week 2 of Andrew Ng's Machine Learning Course
+
+### Day 9: Aug 6, 2018
+**Today's Progress**: Continue Week 2 of Andrew Ng's Machine Learning Course
